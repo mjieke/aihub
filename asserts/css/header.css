@@ -1,0 +1,471 @@
+:root {
+  --gap: 15px;
+  --content-gap: 20px;
+  --nav-width: 1024px;
+  --main-width: 720px;
+  --header-height: 60px;
+  --footer-height: 60px;
+  --radius: 8px;
+  --theme: rgb(255, 255, 255);
+  --entry: rgb(255, 255, 255);
+  --primary: rgb(30, 30, 30);
+  --secondary: rgb(108, 108, 108);
+  --tertiary: rgb(214, 214, 214);
+  --content: rgb(31, 31, 31);
+  --code-bg: rgb(245, 245, 245);
+  --border: rgb(238, 238, 238);
+}
+
+.dark {
+  --theme: rgb(29, 30, 32);
+  --entry: rgb(46, 46, 51);
+  --primary: rgb(218, 218, 219);
+  --secondary: rgb(155, 156, 157);
+  --tertiary: rgb(65, 66, 68);
+  --content: rgb(196, 196, 197);
+  --hljs-bg: rgb(46, 46, 51);
+  --code-bg: rgb(55, 56, 62);
+  --border: rgb(51, 51, 51);
+}
+
+/* 定义list元素的背景 */
+.list {
+  background: var(--code-bg);
+}
+/* 定义暗黑模式list元素背景 */
+.dark.list {
+  background: var(--theme);
+}
+
+a,
+button,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--primary);
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+card {
+  display: flex;
+  margin-bottom: var(--gap);
+  padding: var(--gap);
+  background: var(--entry);
+  border-radius: var(--radius);
+  transition: transform 0.1s;
+  border: 1px solid var(--border);
+  flex-direction: column;
+  text-align: left;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.entry-header h2 {
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.entry-header {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  box-sizing: border-box;
+  margin: 2;
+  height: 35px;
+
+  /* background-color: antiquewhite; */
+}
+
+.entry-content {
+  box-sizing: border-box;
+
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.6;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  /* background-color: aliceblue; */
+}
+
+.entry-footer {
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.6;
+  /* background-color: #dadade; */
+}
+
+.entry-link {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#sidebar {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  /* height: 100%; */
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  /* overflow: auto; */
+  z-index: 100;
+  background-color: var(--entry);
+  overflow-y: auto;
+}
+
+#sidebar a {
+  margin: 10px;
+}
+
+#sidebar .active {
+  background-color: var(--secondary);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen,
+    Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-break: break-word;
+  background: var(--theme);
+}
+/* 字体下划线 */
+a {
+  text-decoration: none;
+}
+
+button,
+input,
+textarea {
+  padding: 0;
+  font: inherit;
+  background: 0 0;
+  border: 0;
+}
+/* 鼠标变手指 */
+button,
+input[type="button"],
+input[type="submit"] {
+  cursor: pointer;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill {
+  box-shadow: 0 0 0 50px var(--theme) inset;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--tertiary);
+  border: 5px solid var(--theme);
+  border-radius: var(--radius);
+}
+
+.list:not(.dark)::-webkit-scrollbar-track {
+  background: var(--code-bg);
+}
+
+.header {
+  width: 100%;
+  z-index: 100;
+  -webkit-transition: box-shadow 0.3s ease;
+  -moz-transition: box-shadow 0.3s ease;
+  -o-transition: box-shadow 0.3s ease;
+  transition: box-shadow 0.3s ease;
+  justify-content: center;
+  /* background-color: antiquewhite; */
+}
+
+/* .header:hover {
+  -webkit-box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.1);
+} */
+
+.header #menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  float: right;
+  list-style: none;
+}
+
+.nav .delimiter {
+  width: 0;
+  margin: 0.125rem 0.25rem;
+  padding: 0;
+  border-left: 1px dashed #dadade;
+}
+
+.dark.nav .delimiter {
+  border-left-color: #6a6a6c;
+}
+
+#menu li + li {
+  margin-inline-start: var(--gap);
+}
+
+#menu .active {
+  font-weight: 500;
+  border-bottom: 2px solid;
+}
+
+.header-title,
+#menu {
+  display: flex;
+  margin: auto var(--gap);
+}
+
+/* .ionicon {
+  display: inline;
+  display: flex;
+  margin: auto var(--gap);
+} */
+
+/* ion-icon {
+  font-size: 14px;
+} */
+
+.header-title {
+  justify-content: flex-start;
+  vertical-align: middle;
+}
+
+/* .header-title {
+  position: fixed;
+  left: calc((100vw - var(--main-width) - var(--gap) * 2) / 2 - 138px);
+} */
+
+#search input {
+  color: transparent;
+  box-sizing: border-box;
+  height: 2.5rem;
+  width: 1.25rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  border-radius: 0.5rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  vertical-align: baseline !important;
+  -webkit-transition: width 0.3s ease;
+  -moz-transition: width 0.3s ease;
+  -o-transition: width 0.3s ease;
+  transition: width 0.3s ease;
+}
+
+.header-title a {
+  display: inline;
+  vertical-align: middle;
+  pointer-events: none;
+  transform: translate(0, -10%);
+  border-radius: 6px;
+  margin-inline-end: 8px;
+}
+
+.logo-switches {
+  display: inline-flex;
+  margin: auto 1px;
+}
+
+.logo-switches {
+  flex-wrap: inherit;
+}
+
+#theme-toggle svg {
+  height: 18px;
+  width: 18px;
+}
+
+.language-switches {
+  display: inline-flex;
+  margin: auto 1px;
+}
+
+.language-switches {
+  flex-wrap: inherit;
+}
+#language-toggle svg {
+  height: 18px;
+  width: 18px;
+}
+
+.footer,
+.top-link {
+  font-size: 12px;
+  color: var(--secondary);
+}
+
+.top-link {
+  visibility: hidden;
+  position: fixed;
+  bottom: 60px;
+  right: 30px;
+  z-index: 99;
+  background: var(--tertiary);
+  width: 42px;
+  height: 42px;
+  padding: 12px;
+  border-radius: 64px;
+  transition: visibility 0.5s, opacity 0.8s linear;
+}
+
+.top-link,
+.top-link svg {
+  filter: drop-shadow(0 0 0 var(--theme));
+}
+
+.footer a:hover,
+.top-link:hover {
+  color: var(--primary);
+}
+
+.top-link:focus,
+#theme-toggle:focus {
+  outline: 0;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  line-height: var(--header-height);
+}
+
+.nav a {
+  display: block;
+}
+
+.logo {
+  display: flex;
+  margin: auto var(--gap);
+  justify-content: flex-end;
+}
+
+.logo {
+  flex-wrap: inherit;
+}
+
+.header-title a {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* 调节auto 1px左右位置 */
+button#theme-toggle,
+button#language-toggle {
+  font-size: 26px;
+  margin: auto 1px;
+}
+
+/* 设置主题按钮是否可见 */
+body.dark #moon {
+  vertical-align: middle;
+  display: none;
+}
+
+body:not(.dark) #sun {
+  display: none;
+}
+/* 
+#menu {
+  list-style: none;
+  word-break: keep-all;
+  overflow-x: auto;
+  white-space: nowrap;
+} */
+button:active {
+  transform: scale(0.96);
+}
+
+.tab-content {
+  padding: 0 0 0 80px;
+}
+
+card a {
+  box-sizing: border-box;
+  border: 1px solid var(--border);
+}
+
+card a img {
+  width: 100%;
+  height: 100%;
+  /* width: 100px; */
+  /* position: relative; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* box-sizing: border-box; */
+}
+/* 悬停后，卡片缩放 */
+/* card:hover {
+  transform: scale(0.96);
+} */
+
+/* 悬停后，卡片阴影 */
+card:hover {
+  box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.tab-content .card-content {
+  margin-bottom: 10px;
+}
+
+.tab-content .card-content:last-child {
+  margin-bottom: 0;
+}
+
+.card-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  /* gap: --gap; */
+  box-sizing: border-box;
+  /* row-gap: 100px; */
+  column-gap: 10px;
+
+  /* justify-items: center; */
+  /* align-items: center; */
+  /* background-color: #6a6a6c; */
+}
+
+@media screen and (min-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 19px;
+    height: 11px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .list .top-link {
+    transform: translateY(-5rem);
+  }
+}
+
+@media (prefers-reduced-motion) {
+  .terms-tags a:active,
+  .button:active,
+  .share-buttons svg:active,
+  .post-entry:active,
+  .top-link,
+  #searchResults .focus,
+  #searchResults li:active {
+    transform: none;
+  }
+}
