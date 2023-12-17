@@ -15,6 +15,7 @@ template_categories = env.get_template("categories.html")
 aibot_url_info_file = "aibot/aibot_5_processed.json"
 WEB_SITE = "http://127.0.0.1:5500"
 WEB_SITE = "https://mjieke.github.io/aihub"
+WEB_CSS = "asserts/css/header.css"
 
 
 @dataclass
@@ -64,33 +65,33 @@ base_content = template_base.render(
     show_menu="latest",
     cards=cards,
     web_site=WEB_SITE,
-    base_css="asserts/css/header.css",
+    base_css=WEB_CSS,
 )
 index_content = template_index.render(
     title="Ai·Hub",
     show_menu="latest",
     cards=cards,
     web_site=WEB_SITE,
-    base_css="../asserts/css/header.css",
+    base_css=WEB_CSS,
 )
 about_content = template_about.render(
     title="Ai·Hub",
     show_menu="about",
     web_site=WEB_SITE,
-    base_css="../asserts/css/header.css",
+    base_css=WEB_CSS,
 )
 search_content = template_search.render(
     title="Ai·Hub",
     show_menu="search",
     web_site=WEB_SITE,
-    base_css="../asserts/css/header.css",
+    base_css=WEB_CSS,
 )
 cate_content = template_categories.render(
     title="Ai·Hub",
     show_menu="categories",
     cates=cates,
     web_site=WEB_SITE,
-    base_css="../asserts/css/header.css",
+    base_css=WEB_CSS,
 )
 
 # with open("../base.html", "w") as f:
