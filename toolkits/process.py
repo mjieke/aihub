@@ -272,12 +272,14 @@ def add_picture(url_info, card_img_path):
 
         img = Image.open(screenshot_path)
         w, h = img.size
-        img = img.resize((300, int(300.0 / w * h)))  # TODO 改为双线性插值
+        img = img.resize((240, int(240.0 / w * h)))  # TODO 改为双线性插值
         img.save(nail_path)
 
 
 def add_info_to_json(url_info_file, dst_info_file, resource_img_path):
     urls = read_url_info(url_info_file)
+    if not os.path.exists(resource_img_path):
+        os.makedirs(resource_img_path)
 
     for url, info in tqdm(urls.items()):
         add_category(info)

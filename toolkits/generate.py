@@ -14,6 +14,7 @@ template_categories = env.get_template("categories.html")
 
 aibot_url_info_file = "aibot/aibot_5_processed.json"
 WEB_SITE = "http://127.0.0.1:5500"
+WEB_SITE = "https://mjieke.github.io/aihub"
 
 
 @dataclass

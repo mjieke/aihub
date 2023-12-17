@@ -144,7 +144,7 @@
   "https://app.avclabs.com/#": {},
   "https://www.rask.ai/": {},
   "https://www.aippt.cn/": {},
-  "https://www.x-design.com/ppt/": {},
+  "https://www.x-design.com/ppt/": { "category": "PowerPoint" },
   "https://gamma.app": {
     "description": "A new medium for presenting ideas. Just start writing. Beautiful, engaging content with none of the formatting and design work."
   },

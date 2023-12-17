@@ -24,7 +24,7 @@ register_conv_template(
     Category(
         idx=0,
         cate="chatbot",
-        name=["聊天机器", "chatbot"],
+        name=["对话聊天", "chatbot"],
         keywords=["聊天机器人", "聊天", "机器人", "对话", "智能体", "chatbot"],
     )
 )
