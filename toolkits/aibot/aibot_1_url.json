@@ -1,0 +1,641 @@
+{
+  "https://www.logo123.com/": {},
+  "https://www.mddai.cn/": {},
+  "https://www.midjourney.com/home": {
+    "title": "MidJourney",
+    "description": "AI绘画",
+    "mainpage_org_img": "aibot/image/hand/midjourney.png"
+  },
+  "https://bard.google.com/chat/": {
+    "title": "巴德 | Bard",
+    "description": "Goolge 推出的 chatbot",
+    "mainpage_org_img": "aibot/image/hand/bard.png"
+  },
+  "https://yiyan.baidu.com/": {
+    "description": "文心一言，百度推出的基于文心大模型的AI对话平台"
+  },
+  "https://yige.baidu.com": {
+    "description": "文心一格，百度推出的AI艺术和创意辅助平台",
+    "mainpage_org_img": "aibot/image/hand/yige_baidu_com.png"
+  },
+  "https://writingo.net/document": {},
+  "https://ibiling.cn/": {},
+  "https://88lingo.com/ai?utm_id=577": {},
+  "https://zuojia.baidu.com": { "delete": true },
+  "https://www.grammarly.com": {},
+  "https://www.xiaoyutai.com/": { "category": "text" },
+  "https://ai.kezhan365.com/inviteCode/FwJFxy": {},
+  "https://www.deepl.com/write": {},
+  "https://coda.io/product/ai": { "category": "note" },
+  "https://turbodesk.xfyun.cn/": {},
+  "https://wen.mobvoi.com/": {
+    "title": "序列猴子.奇妙文",
+    "description": "AI写作助理"
+  },
+  "https://x.moyin.com/": {},
+  "https://www.shenyandayi.com/": {
+    "category": "text",
+    "title": "深言达意",
+    "description": "更好的词语，诗词佳句，海量素材",
+    "mainpage_org_img": "aibot/image/hand/shenyandayi.png"
+  },
+  "https://write.youdao.com/#/homepage": {
+    "description": "权威的批改体系 基于中国人英语写作习惯 支持手写拍照批改 支持多场景写作"
+  },
+  "https://littlefrog.ai/": {},
+  "https://www.ximalaya.com/gatekeeper/write-wise-web": {
+    "description": "专业的、AI写作工具,一款专业的小说创作工具，小说创作的全流程帮你赋能与提效，他是专业的、AI辅助、懂你的、作家助手",
+    "title": "喜马拉雅-WriteWise"
+  },
+  "https://ai.zaker.cn": {},
+  "https://verse.app.yinxiang.com/product/": {},
+  "https://aigc.baidu.com/": {},
+  "https://if.caiyunai.com": { "category": "text" },
+  "https://chuangyi.taobao.com/pages/aiCopy": { "delete": true },
+  "https://effidit.qq.com": {},
+  "https://www.mypitaya.com": {},
+  "https://www.heyfriday.cn/home": {},
+  "https://www.aigaixie.com": {},
+  "https://www.yizhuan5.com": {},
+  "https://www.giiso.com": {},
+  "https://cn.bing.com/create": {
+    "description": "必应 图像创建器"
+  },
+  "https://www.logosc.cn/": { "category": "image" },
+  "https://www.upscayl.org": { "category": "image" },
+  "https://ribbet.ai": {
+    "title": "Ribbet",
+    "description": "AI photo editing made free and simple"
+  },
+  "https://www.remove.bg/zh?aid=kkgjrdhppgtrhbyn&amp;utm_campaign=affiliate+marketing&amp;utm_medium=referral&amp;utm_source=affiliate": {},
+  "https://arc.tencent.com/zh/ai-demos": {
+    "description": "人脸修复，人像抠图，动漫增强"
+  },
+  "https://wanxiang.aliyun.com/": {},
+  "https://zmrj.art/": {},
+  "https://design.meitu.com/aigc/text-to-image": {},
+  "https://www.capcut.cn/ai-tool/": {
+    "description": "用简单的文案，创造精彩的图片"
+  },
+  "https://miaohua.sensetime.com/zh-CN": {},
+  "https://ai.sohu.com/search?_trans_=000019_aidhlltj": {},
+  "https://www.whee.com/": {},
+  "https://aiart.chuangkit.com/landingpage": {},
+  "https://ke.study.163.com/artWorks/painting": {},
+  "https://6pen.art/": {},
+  "https://creator.nolibox.com/": {
+    "title": "画宇宙",
+    "description": "无限画板 + 无限创意,支持画宇宙系列模型、百度文心 AI 绘画大模型、社区大模型等多种模型"
+  },
+  "https://chacha.so.com/home": {
+    "mainpage_org_img": "aibot/image/hand/tuchacha.png"
+  },
+  "https://clipdrop.co/stable-doodle": { "delete": true },
+  "https://clipdrop.co": { "category": "image" },
+  "https://leonardo.ai": { "category": "design" },
+  "https://koutu.gaoding.com/utms/e3717a090a6a42c180e2c273dcf8eed8": {
+    "title": "稿定",
+    "description": "你是否曾经为设计一个规范的封面而苦恼，或是想要为你的博客写一个有趣的海报却不知道从何处入手？现在，让智能设计帮助你快速完成小红书封面、视频封面、小红书海报等多种设计类型，满足自媒体等从业者快速做图的需求。"
+  },
+  "https://www.photoroom.com/background-remover": {},
+  "https://cutout.meitu.com/": {},
+  "https://magicstudio.com/zh": {},
+  "https://booltool.boolv.tech/home": {
+    "description": "Amazing pictures, stunning videos, and wonderful texts are all at your fingertips. Powered by OpenAI"
+  },
+  "https://www.cutout.pro": {},
+  "https://paint.mobvoi.com/": {
+    "description": "人人皆可绘制专业的图片作品"
+  },
+  "https://www.diffus.graviti.com/?utm_source=tool&amp;utm_medium=referral&amp;utm_campaign=aibot": {},
+  "https://img.logosc.cn/": {},
+  "https://www.photosir.com/": {},
+  "https://drawdraw.com/?s=aigj": { "delete": true },
+  "https://aic.oceanengine.com/": {},
+  "https://runwayml.com/green-screen": {},
+  "https://zenvideo.qq.com": {},
+  "https://www.kuaijianji.com/": {},
+  "https://wonderdynamics.com": {
+    "category": "video",
+    "description": "An AI tool that automatically animates, lights and composes CG characters into a live-action scene"
+  },
+  "https://pika.art": {},
+  "https://capsule.video/": {},
+  "https://www.unscreen.com": {},
+  "https://ebsynth.com/": {
+    "description": "Bring your paintings to animated life. You paint one frame and EbSynth propagates it to the rest of the footage."
+  },
+  "https://dreamfaceapp.com": {
+    "description": "AI Face Editor",
+    "category": "image"
+  },
+  "https://www.laihua.com/": {},
+  "https://virbo.wondershare.cn": {},
+  "https://weta365.com/conduct": {
+    "title": "奇妙元",
+    "description": "专注于数字人短视频&直播服务"
+  },
+  "https://www.animiz.cn/microvideo/": {},
+  "https://huiyingzimu.com/": {},
+  "https://www.veed.io/zh-CN/tools/video-background-remover": {},
+  "https://bgrem.ai/zh/remove-video-bg/?params=free": { "delete": true },
+  "https://bgrem.ai/zh/erase-and-replace/": {},
+  "https://www.cutout.pro/zh-CN/remove-video-background": {},
+  "https://app.avclabs.com/#": {},
+  "https://www.rask.ai/": {},
+  "https://www.aippt.cn/": {},
+  "https://www.x-design.com/ppt/": {},
+  "https://gamma.app": {
+    "description": "A new medium for presenting ideas. Just start writing. Beautiful, engaging content with none of the formatting and design work."
+  },
+  "https://www.decktopus.com": {},
+  "https://tome.app": {},
+  "https://zhiwen.xfyun.cn/": {},
+  "https://www.chatba.com": {},
+  "https://powerpresent.ai": {},
+  "https://www.beautiful.ai": {},
+  "https://chroniclehq.com": { "category": "PowerPoint" },
+  "https://www.presentations.ai": {},
+  "https://www.slidesai.io": {},
+  "https://gezhe.caixuan.cc/": {
+    "title": "歌者PPT",
+    "description": "写 PPT 很简单！极速生成速度优先，预计耗时30秒",
+    "mainpage_org_img": "aibot/image/hand/gezheppt.png"
+  },
+  "https://chat-ppt.com": {},
+  "https://www.auxi.ai": {},
+  "https://www.mindshow.fun/": {
+    "description": "输入内容,自动生成演示,不再烦恼排版"
+  },
+  "https://www.gaoding.com/utms/a2eab57fc69444d2835e8d7dae8bc1ad ": {
+    "delete": true
+  },
+  "https://jsai.cc/ai/create": {},
+  "https://www.figma.com/figjam/ai": { "category": "design" },
+  "https://www.canva.com/magic-design": {
+    "mainpage_org_img": "aibot/image/hand/canva.png",
+    "description": "Magic Design™ (Beta) is a free AI design tool that lets you visualize your design ideas with a selection of refined templates made just for you. Start by uploading your own media, and watch as custom designs, Presentations, or edited videos appear in the context you need. No coding and advanced design skills required."
+  },
+  "https://taishan.qq.com/brand/": {
+    "description": "多场景智能设计服务商，智绘设计，视频剪辑，智能封面",
+    "title": "腾讯云智绘"
+  },
+  "https://ai-bot.cn/sites/1989.html": { "delete": true },
+  "https://ailogo.qq.com/guide/brandname": {},
+  "https://looka.com": {
+    "title": "looka",
+    "url": "https://looka.com",
+    "description": "Design your own beautiful brand, Use Looka's AI-powered platform to design a logo and brand you love.",
+    "mainpage_org_img": "aibot/image/hand/looka.png"
+  },
+  "https://luban.aliyun.com/": { "description": "" },
+  "https://ling.jd.com": {},
+  "https://modao.cc/feature/ai.html": {
+    "description": "在线一体化产品设计协作平台"
+  },
+  "https://www.recraft.ai/": { "category": "image" },
+  "https://www.kujiale.cn/activities/AI-kujiale": {
+    "title": "酷家乐AI",
+    "description": "让创意更高效，让意向更合拍",
+    "category": "design"
+  },
+  "https://pixso.cn/": {},
+  "https://www.framer.com/ai": {},
+  "https://mastergo.com/upcoming-ai/apply": {},
+  "https://motiff.com/": {
+    "description": "AI 驱动的用户界面设计工具。人与 AI 共同协作，开启全新的设计方式和体验，让设计团队工作更高效。",
+    "title": "motiff"
+  },
+  "https://logolivery.ai/": {},
+  "https://www.realibox.com/product/ai": {},
+  "https://vectorizer.ai/": {},
+  "https://www.modaiyun.com/mdy/ai": { "category": "image" },
+  "https://www.vizcom.ai": {},
+  "https://www.dora.run/ai": {},
+  "https://designs.ai": {},
+  "https://www.usegalileo.ai": {},
+  "https://spline.design/ai": {},
+  "https://www.illostration.com": {
+    "description": "Create AI-generated illustrations. Uniqueness in seconds.",
+    "title": "illostrationAI",
+    "category": "image"
+  },
+  "https://uizard.io/ai-design": {},
+  "https://lumalabs.ai": { "category": "image" },
+  "https://www.nolibox.com/introduction": {},
+  "https://www.meijian.com/": {},
+  "https://www.meshy.ai/": {},
+  "https://kebuxi.datasink.sensorsdata.cn/r/dF": {},
+  "https://withpoly.com/browse/textures": {},
+  "https://illustroke.com": {},
+  "https://colors.eva.design": {},
+  "https://brandmark.io/color-wheel": {},
+  "https://huemint.com": {
+    "description": "Huemint uses machine learning to create unique color schemes for your brand, website or graphic"
+  },
+  "https://www.obviously.ai": {},
+  "https://logomaster.ai": {},
+  "https://copilot.microsoft.com": {
+    "description": "你的日常 AI 助手",
+    "title": "Copilot",
+    "category": "note"
+  },
+  "https://workspace.dingtalk.com/welcome": {},
+  "https://taichu-web.ia.ac.cn/#/welcome": {},
+  "https://grok.x.ai": { "category": "chatbot" },
+  "https://kimi.moonshot.cn/": {},
+  "https://qianwen.aliyun.com": { "category": "chatbot" },
+  "https://www.doubao.com/": {
+    "description": "AI 智能体",
+    "title": "豆包"
+  },
+  "https://chatglm.cn/pureDisplay?fr=mkazb01": {},
+  "https://wukong.com/tool": {},
+  "https://yingshi-ai.com/": {},
+  "https://chat.baichuan-ai.com/home": {},
+  "https://chat.baidu.com": { "description": "AI伙伴浏览器助手" },
+  "https://cloud.baidu.com/product/infoflow.html": {},
+  "https://www.langboat.com/portal/mengzi-gpt": {},
+  "https://luca-beta.modelbest.cn": {
+    "title": "面壁露卡",
+    "description": "千亿多模态大模型,智能对话助手,基于面壁智能的新一代大语言模型，能与你互动对话，帮你了解世界知识、激发创作灵感、理解图片内容、处理数理逻辑、编写程序代码，帮助你更好地获取信息、做出规划、解决问题"
+  },
+  "https://chat.xverse.cn/home/index.html": {},
+  "https://www.chitchop.com/": {
+    "description": "AI工具全能助手, chatbot"
+  },
+  "https://chat.deepseek.com/": {},
+  "https://tigerbot.com/": {},
+  "https://research.stability.ai/chat": {
+    "description": "stability chat ai",
+    "mainpage_org_img": "aibot/image/hand/stability_chat.png",
+    "category": "chatbot"
+  },
+  "https://moss.fastnlp.top": { "delete": true },
+  "http://xinghuo.xfyun.cn/": {},
+  "https://ai.360.com/": {
+    "mainpage_org_img": "aibot/image/hand/360zhi.png"
+  },
+  "https://github.com/features/copilot": {
+    "title": "github copilot",
+    "description": "The world’s most widely adopted AI developer tool. code"
+  },
+  "https://aws.amazon.com/codewhisperer": {},
+  "https://about.sourcegraph.com/cody": {},
+  "https://www.useblackbox.io/": {},
+  "https://www.codeium.com": {},
+  "https://www.codium.ai": {},
+  "https://www.cursor.so": {},
+  "https://chatdev.modelbest.cn/": { "category": "code" },
+  "https://tongyi.aliyun.com/lingma/": {},
+  "https://codefuse.alipay.com/": {
+    "description": "辅助编码,代码优化,生成单测,基于海量数据提供实时地代码补全服务，包括行内补全和片段补全。同时支持解释代码、生成注释等功能，帮助开发者快速完成功能研发，提高研发效率。"
+  },
+  "https://iflycode.xfyun.cn/": {
+    "description": "降低软件开发的专业门槛,代码生成、知识问答、非专业程序员轻松上手,解决软件生产的产能瓶颈,一站式赋能研测工作，专业程序员效率倍增"
+  },
+  "https://comate.baidu.com/": {},
+  "https://www.huaweicloud.com/lab/paas/codeartssnap.html": { "delete": true },
+  "https://www.askcodi.com": {},
+  "https://v0.dev/": {},
+  "https://codegeex.cn/zh-CN": {
+    "title": "CodeGeeX",
+    "description": "智能编程助手, 免费的开发效率提升神器"
+  },
+  "https://codesandbox.io/blog/meet-boxy-ai-coding-assistant": {
+    "title": "Boxy",
+    "description": "Meet Boxy, Your New AI Coding Assistant. Bring your ideas to life faster by having AI contextually explain, generate and refactor code."
+  },
+  "https://www.quest.ai/": {},
+  "https://sky-code.singularity-ai.com/index.html#": {
+    "description": "SkyCode 是一款AI代码生成工具，支持各种主流编程语言，助力开发人员更快更好的编码。"
+  },
+  "https://jam.dev/jamgpt": {},
+  "https://www.aixcoder.com": {},
+  "https://www.airops.com": { "category": "code" },
+  "https://www.imgcook.com": {},
+  "https://ling-deco.jd.com": {
+    "description": "京东，Deco 是 Design 和 Code 的两个词的合并，代表 Design To Code，即从设计稿生成代码"
+  },
+  "https://replit.com/site/ghostwriter": { "delete": true },
+  "https://www.codiga.io": {},
+  "https://www.locofy.ai": {
+    "title": "locofy",
+    "description": "Frontend development accelerated with AI Turn designs into frontend code for web & mobile. Build full apps, screens, components & design systems!"
+  },
+  "https://fronty.com": {},
+  "https://www.marsx.dev": {},
+  "https://www.tabnine.com": {},
+  "https://mutable.ai": { "category": "code" },
+  "https://www.warp.dev": { "category": "code" },
+  "https://fig.io": { "category": "code" },
+  "https://codesnippets.ai": { "category": "code" },
+  "https://hocoos.com": { "category": "code" },
+  "https://httpie.io/ai": { "category": "code" },
+  "https://ai-code-reviewer.com": { "category": "code" },
+  "https://visualstudio.microsoft.com/zh-hans/services/intellicode": {},
+  "https://www.heycli.com": {},
+  "https://tianyin.163.com": {},
+  "https://y.qq.com/tme_studio/index.html#": {},
+  "https://www.stableaudio.com/": {},
+  "https://www.riffusion.com": {
+    "description": "This AI will literally sing whatever you type, voice"
+  },
+  "https://peiyin.xunfei.cn/": {},
+  "https://uberduck.ai/": {},
+  "https://dubbing.tech/": { "description": "大饼变声，voice" },
+  "https://podcast.adobe.com": {},
+  "https://elevenlabs.io/": {},
+  "https://xstudio.music.163.com/": {
+    "title": "网易云音乐·X Studio",
+    "description": "为热爱音乐的你带来时刻在线的AI歌手伙伴"
+  },
+  "https://ace-studio.timedomain.cn": {
+    "title": "ACE studio",
+    "description": "随时随地，创造潜力无限的AI歌声"
+  },
+  "https://www.resemble.ai": {},
+  "https://www.ibm.com/cloud/watson-text-to-speech": {},
+  "https://fakeyou.com": {},
+  "https://bgmcat.com/home": {},
+  "https://mubert.com": {},
+  "https://www.beatoven.ai": {},
+  "https://beatbot.fm/": {},
+  "https://audo.ai": {},
+  "https://www.naturalreaders.com": {},
+  "https://www.assemblyai.com": {},
+  "https://www.lalal.ai": {},
+  "https://krisp.ai": {},
+  "https://play.ht": {},
+  "https://murf.ai": {},
+  "https://lemonaide.ai": {},
+  "https://soundraw.io": {},
+  "https://boomy.com": {
+    "description": "Create original songs in seconds, even if you've never made music before 🌐 Submit your songs to streaming platforms and get paid when people listen 💜 Join a global community of artists empowered by generative music"
+  },
+  "https://lovo.ai": {},
+  "https://typecast.ai": {},
+  "https://www.veed.io/tools/text-to-speech-video/ai-voice-generator": {
+    "category": "voice"
+  },
+  "https://clipchamp.com/zh-hans/features/ai-voice-over-generator": {
+    "category": "voice"
+  },
+  "https://themetavoice.xyz": {},
+  "https://speechify.com/zh-hans": {
+    "title": "Speechify",
+    "description": "用最先进的文本转语音技术轻松阅读任何文档、文章、书籍、PDF、电子邮件。适用于Chrome、iOS和安卓系统，Speechify在文字转语音软件类别中排名第一，并拥有超过15 万条五星好评。voice"
+  },
+  "https://voicemaker.in": {},
+  "https://voice.ai": {},
+  "https://www.listnr.tech": {},
+  "https://www.voicemod.net/ai-voices": {},
+  "https://wellsaidlabs.com": {
+    "title": "WELLSAID",
+    "description": "Turn your text into voice overs in seconds"
+  },
+  "https://www.notta.ai/en": {},
+  "https://www.deepl.com/translator": {},
+  "https://www.xiangjifanyi.com/console/register-invite/741be04feb30bf16": {
+    "delete": true
+  },
+  "https://www.xiangjifanyi.com/home/": {
+    "mainpage_org_img": "aibot/image/v3/www_xiangjifanyi_com.jpg",
+    "description": "象寄图片翻译，图片网盘，图片去水印，图片抠图，图床，视频翻译，image translate, video translate, Image watermark removal"
+  },
+  "https://sight.youdao.com/": {},
+  "https://translate.alibaba.com/": {},
+  "https://translate.volcengine.com": {},
+  "https://www.bing.com/translator": { "delete": true },
+  "https://translate.google.com": {},
+  "https://fanyi.baidu.com": {},
+  "https://fanyi.qq.com": {},
+  "https://transmart.qq.com/zh-CN/index": {},
+  "https://fanyi.xfyun.cn/console/trans/text": {},
+  "https://fanyi.sogou.com/text": {},
+  "https://fanyi.caiyunapp.com/#": {},
+  "https://fanyi.baidu.com/appdownload/download.html?tab=helper&amp;fr=pcproduct": {
+    "delete": true
+  },
+  "https://translate.iciba.com/": {},
+  "https://gptzero.me": {},
+  "https://studycorgi.com/free-writing-tools/chat-gpt-detector": {
+    "title": "ChatGPT Detector for Essay Writing - Free and Accurate",
+    "description": "Looking for a free online ChatGPT detector to check an essay or research paper? 🎓 With this intuitive and accurate AI detection tool, you'll easily find out 🕵 if a piece was written or generated"
+  },
+  "https://aiseo.ai/tools/ai-content-detector.html": {},
+  "https://www.writecream.com/ai-content-detector": {},
+  "https://smodin.io/ai-content-detector": {},
+  "https://sapling.ai/utilities/ai-content-detector": {},
+  "https://x.writefull.com/gpt-detector": {},
+  "https://writer.com/ai-content-detector": {},
+  "https://originality.ai": {},
+  "https://copyleaks.com": { "category": "code" },
+  "https://gowinston.ai": {},
+  "https://ai-bot.cn/sites/599.html": { "delete": true },
+  "https://promptperfect.jina.ai/": {},
+  "https://flowgpt.com": {},
+  "https://openart.ai/promptbook": {},
+  "https://prompthero.com": {
+    "title": "PromptHero",
+    "description": "The #1 website for prompt engineering. Search millions of AI art images by models like Stable Diffusion, Midjourney..."
+  },
+  "https://www.clickprompt.org/zh-CN": {},
+  "https://generrated.com": {},
+  "https://publicprompts.art": { "description": "prompts library" },
+  "https://snackprompt.com/": {},
+  "https://www.promptingguide.ai/zh": {
+    "title": "提示工程指南",
+    "description": "提示工程（Prompt Engineering）是一门较新的学科，关注提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域。 掌握了提示工程相关技能将有助于用户更好地了解大型语言模型的能力和局限性。"
+  },
+  "https://www.aiprm.com": {},
+  "https://www.ai016.com": {},
+  "https://prompt.noonshot.com": {},
+  "https://tools.saxifrage.xyz/prompt": {},
+  "https://github.com/benf2004/ChatGPT-Prompt-Genius": {},
+  "https://promptbase.com": {},
+  "https://prompts.chat": {},
+  "https://contentatscale.ai/ai-prompt-library/": {
+    "title": "Content at Scale",
+    "description": "AI Prompt Library Discover AI prompts to elevate your work. Get more out of ChatGPT, GPT4, Bard, Claude, and more with these prompts"
+  },
+  "https://learningprompt.wiki": {},
+  "https://www.aishort.top": {},
+  "https://icihun.com/": {
+    "title": "AIGC精品提示词库",
+    "description": "AIGC精品提示词库, 每日更新1000+高质量提示词，你可以在这里找到各类提示词和咒语，帮助你更好的使用AI工具，快速得到想要的效果，提升工作效率。如果你是一位优秀的提示词创作者，你可以在这里销售自己的提示词。"
+  },
+  "https://www.miraclevision.com/": {},
+  "https://agpt.co": {
+    "title": "AutoGPT",
+    "description": "Working Towards an Open Source AI Assistant Available To Everyone"
+  },
+  "https://agentgpt.reworkd.ai": {},
+  "https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html": {},
+  "https://hunyuan.tencent.com/": {},
+  "https://gradio.app": { "delete": true },
+  "https://deepfloyd.ai/deepfloyd-if": {
+    "description": "DeepFloyd IF is a modular neural network based on the cascaded approach. "
+  },
+  "https://cohere.com": {},
+  "https://openai.com/blog/openai-codex": {},
+  "https://wenxin.baidu.com": {},
+  "https://openapi.mobvoi.com/index": {},
+  "https://www.modelscope.cn": {
+    "title": "魔塔社区",
+    "description": "汇聚各领域最先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。发现、学习、定制和分享心仪的模型",
+    "category": "eval"
+  },
+  "https://huggingface.co/docs/transformers/model_doc/bloom": {
+    "delete": true
+  },
+  "https://m6.aliyun.com/#": {},
+  "https://lamini.ai": {},
+  "https://github.com/Stability-AI/StableLM": {},
+  "https://research.runwayml.com/gen2": {},
+  "https://civitai.com": {},
+  "https://chat.sensetime.com/wb": {},
+  "https://tiangong.kunlun.com": {},
+  "https://www.deepspeed.ai": { "delete": true },
+  "https://ai.google/discover/palm2": { "delete": true },
+  "https://github.com/facebookresearch/llama": { "delete": true },
+  "https://www.openbmb.org/home": {},
+  "https://segment-anything.com": {
+    "description": "Segment Anything Model (SAM): a new AI model from Meta AI that can 'cut out' any object, in any image, with a single click SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training."
+  },
+  "https://huggingface.co": {},
+  "https://imagen.research.google": {
+    "description": "We present Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation"
+  },
+  "https://chat.lmsys.org": {
+    "title": "fastchat",
+    "description": "a llm chat playground",
+    "mainpage_org_img": "aibot/image/hand/fastchat.png"
+  },
+  "https://www.ibm.com/products/watsonx-ai": {},
+  "https://www.lobe.ai": {},
+  "https://scale.com": {},
+  "https://replicate.com": {},
+  "https://www.evidentlyai.com": {},
+  "https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu": {},
+  "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard": {
+    "category": "eval"
+  },
+  "https://cevalbenchmark.com/static/leaderboard_zh.html": {
+    "description": " C-Eval: 一个适用于大语言模型的多层次多学科中文评估套件"
+  },
+  "https://flageval.baai.ac.cn/#/trending": {
+    "description": "FlagEval （天秤）大模型评测体系及开放平台，旨在建立科学、公正、开放的评测基准、方法、工具集，协助研究人员全方位评估基础模型及训练算法的性能，同时探索利用AI方法实现对主观评测的辅助，大幅提升评测的效率和客观性。FlagEval （天秤）创新构建了“能力-任务-指标”三维评测框架，细粒度刻画基础模型的认知能力边界，可视化呈现评测结果。目前已推出语言大模型评测、多语言文图大模型评测及文图生成评测等工具，并对广泛的语言基础模型、跨模态基础模型实现了评测。后续将全面覆盖基础模型、预训练算法、微调/压缩算法等三大评测对象，包括自然语言处理（NLP）、计算机视觉（CV）、音频（Audio）及多模态（Multimodal）等四大评测场景和丰富的下游任务。"
+  },
+  "https://www.cluebenchmarks.com/static/superclue.html": {
+    "title": "cluebenchmarks",
+    "description": "中文通用大模型综合性测评基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型的效果情况。包括但不限于：这些模型哪些相对效果情况、相较于国际上的代表性模型做到了什么程度、 这些模型与人类的效果对比如何？它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE，是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。目前包括三大基准：OPEN多轮开放式基准、OPT三大能力客观题基准、琅琊榜匿名对战基准。它按照月度进行更新"
+  },
+  "https://opencompass.org.cn/leaderboard-llm": {
+    "description": "llm model eval benchmark"
+  },
+  "https://github.com/haonan-li/CMMLU": {},
+  "https://mmbench.opencompass.org.cn/leaderboard": {
+    "description": "Many large models developed by various companies and organizations are currently in the internal testing phase and have not been made available to the public. Among these models, many have achieved impressive scores on MMBench."
+  },
+  "https://crfm.stanford.edu/helm/latest": {},
+  "http://llmeval.com/index": { "description": "llm模型评估" },
+  "https://evalgpt.ai": {},
+  "https://pubmedqa.github.io": {
+    "title": "PubMedQA",
+    "description": "A Dataset for Biomedical Research Question Answering"
+  },
+  "https://www.fast.ai": { "delete": true },
+  "https://www.coursera.org/collections/best-machine-learning-ai": {
+    "delete": true
+  },
+  "https://www.elementsofai.com": { "delete": true },
+  "https://www.deeplearning.ai": { "delete": true },
+  "https://machinelearningmastery.com/start-here": { "delete": true },
+  "https://microsoft.github.io/generative-ai-for-beginners/#/translation/cn": {
+    "delete": true
+  },
+  "https://microsoft.github.io/ML-For-Beginners": { "delete": true },
+  "https://www.kaggle.com": { "delete": true },
+  "https://brilliant.org/courses/intro-neural-networks": {
+    "description": "课程，书籍",
+    "delete": true
+  },
+  "https://aistudio.baidu.com": {},
+  "https://www.aidaxue.com": {
+    "title": "AI大学堂",
+    "description": "人工智能课程"
+  },
+  "https://developer.aliyun.com/learning/roadmap/ai": { "delete": true },
+  "https://www.udacity.com/school/school-of-ai": { "delete": true },
+  "https://ai.google": { "delete": true },
+  "https://www.showmeai.tech/": { "delete": false },
+  "https://www.tensorflow.org/?hl=zh-cn": { "delete": true },
+  "https://pytorch.org": { "delete": true },
+  "https://www.paddlepaddle.org.cn": { "delete": true },
+  "https://www.mindspore.cn": { "delete": true },
+  "https://mxnet.apache.org": { "delete": true },
+  "https://scikit-learn.org": { "delete": true },
+  "https://labelstud.io": { "category": "other" },
+  "https://sdk.vercel.ai/docs": {},
+  "https://keras.io": { "delete": true },
+  "https://caffe.berkeleyvision.org": { "delete": true },
+  "https://numpy.org": { "delete": true },
+  "https://deeplearning4j.konduit.ai": { "delete": true },
+  "https://jax.readthedocs.io/en/latest": { "delete": true },
+  "https://www.nltk.org": { "delete": true },
+  "https://docs.langchain.com/docs": {
+    "description": "LangChain is a framework for developing applications powered by language models. It enables applications that:Are context-aware: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.)Reason: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)"
+  },
+  "https://lightning.ai/": { "delete": true },
+  "https://www.tryleap.ai/": { "category": "code" },
+
+  "https://d.design/?from=aibot": {
+    "description": "堆友，阿里巴巴推出的AI绘画平台"
+  },
+  "https://www.x-design.com/?channel=10026": {
+    "description": "美图秀秀，推出的AI绘画平台"
+  },
+  "https://aigc.yizhentv.com/?_f=botrm": {
+    "description": "一帧秒创是基于新壹视频大模型以及一帧AIGC智能引擎内容生成平台，为创作者和机构提供AI生成服务，包括文字续写、文字转语音、文生图、图文转视频等创作服务，一帧秒创通过对文案、素材、AI语音、字幕等进行智能分析，快速成片，零门槛创作视频。"
+  },
+  "https://douchu.ai/warehouse/styleStore": {
+    "title": "触手AI",
+    "description": "触手AI绘画专业版是为插画师、漫画师、设计师等专业用户打造的国产AI绘图平台，支持文生图、图生图、参考生图、AI模型训练、AI视频、图生文等功能。目前已开放全面公测，在线免费体验强大的AIGC创作能力。",
+    "mainpage_org_img": "aibot/image/hand/chushou.png"
+  },
+  "https://shutu.cn/?from=aibot": {
+    "description": "新一代“AI智能”思维导图",
+    "category": "note"
+  },
+  "https://xiezuocat.com/?s=aigj": {
+    "description": "写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。"
+  },
+  "https://www.moyin.com/?promottype=WZ_aibot": {
+    "description": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
+  },
+  "https://chat.openai.com/": {
+    "title": "OpenAI-ChatGPT",
+    "url": "https://chat.openai.com/",
+    "description": "开创性地引领了对话机器人的发展",
+    "category": "chatbot",
+    "mainpage_org_img": "aibot/image/hand/chatgpt.png"
+  },
+  "https://yueyin.zhipianbang.com": {
+    "mainpage_org_img": "aibot/image/hand/yueyin.png"
+  },
+  "https://designer.microsoft.com": {
+    "title": "Microsoft Designer",
+    "mainpage_org_img": "aibot/image/hand/microsoft_des.png"
+  },
+  "https://try.quillbot.com/6eqrqpoysmlh": {
+    "mainpage_org_img": "aibot/image/hand/quilbot.png",
+    "title": "QuillBot",
+    "description": "AI-powered paraphrasing tool will enhance your writing"
+  },
+  "https://www.piccopilot.com/": {
+    "title": "piccopilot",
+    "category": "design",
+    "description": "Upgrade Your Product Display Multi-Industry Custom AI Templates at Your Fingertips."
+  }
+}

@@ -1,0 +1,6 @@
+tmp/
+asserts/img
+toolkits/aibot/image
+__pycache__
+toolkits/mainpage
+.DS_Store

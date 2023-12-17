@@ -1,0 +1,54 @@
+{% extends "base.html" %} {% block main %}
+<div id="sidebar">
+  {% for cate, cards in cates %}
+  <a href="#{{cate}}">{{cate}}</a>
+  {% endfor %}
+</div>
+<div class="tab-content">
+  {% for cate, cards in cates %}
+  <h2 id="{{cate}}" class="card-title">{{cate}}</h2>
+  <div class="card-content">
+    {% for card in cards %}
+    <card>
+      <a href="{{card.url}}" target="_blank">
+        <img src="../{{card.image}}" alt="../{{card.image}}" />
+      </a>
+      <header class="entry-header">
+        <h2>{{ card.title }}</h2>
+      </header>
+      <section class="entry-content">
+        <p>{{ card.description }}</p>
+      </section>
+      <!-- <footer class="entry-footer">
+        <p>Date: April 15, 2022 | Estimated Read</p>
+      </footer> -->
+    </card>
+
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
+<script>
+  $(window).scroll(function () {
+    var scrollTop = $(this).scrollTop();
+    $("#sidebar a").each(function () {
+      var link = $(this).attr("href");
+      var section = $(link);
+      if (section.position().top <= scrollTop) {
+        $("#sidebar a").removeClass("active");
+        $(this).addClass("active");
+      }
+    });
+  });
+</script>
+<!-- <script>
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 100) {
+      // 当页面滚动超过100px时
+      $("#sidebar").fadeIn(); // 显示sidebar
+    } else {
+      $("#sidebar").fadeOut(); // 否则隐藏sidebar
+    }
+  });
+</script> -->
+{% endblock %}

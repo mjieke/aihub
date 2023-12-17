@@ -1,0 +1,26 @@
+{% extends "base.html" %} {% block main %}
+<div class="tab-content">
+  <div class="card-content">
+    {% for card in cards %}
+    <card>
+      <a href="{{card.url}}" target="_blank">
+        <img src="{{card.image}}" alt="" />
+      </a>
+      <header class="entry-header">
+        <h2>{{ card.title }}</h2>
+      </header>
+      <section class="entry-content">
+        <p>{{ card.description }}</p>
+      </section>
+      <!-- <footer class="entry-footer">
+        <p>Date: April 15, 2022 | Estimated Read</p>
+      </footer> -->
+      <!-- <a
+        class="entry-link"
+        aria-label="post link to Learning with not Enough Data Part 3: Data Generation"
+        href="https://lilianweng.github.io/posts/2022-04-15-data-gen/"
+      ></a> -->
+    </card>
+    {% endfor %} {% endblock %}
+  </div>
+</div>
