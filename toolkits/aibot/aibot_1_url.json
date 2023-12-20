@@ -8,10 +8,12 @@
   },
   "https://bard.google.com/chat/": {
     "title": "巴德 | Bard",
+    "idx": 2,
     "description": "Goolge 推出的 chatbot",
     "mainpage_org_img": "aibot/image/hand/bard.png"
   },
   "https://yiyan.baidu.com/": {
+    "idx": 3,
     "description": "文心一言，百度推出的基于文心大模型的AI对话平台"
   },
   "https://yige.baidu.com": {
@@ -615,6 +617,7 @@
     "description": "魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。"
   },
   "https://chat.openai.com/": {
+    "idx": 1,
     "title": "OpenAI-ChatGPT",
     "url": "https://chat.openai.com/",
     "description": "开创性地引领了对话机器人的发展",

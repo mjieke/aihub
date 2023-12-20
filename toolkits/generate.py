@@ -25,6 +25,7 @@ class ItemCard:
     description: str
     image: str
     title: str
+    idx: int
 
 
 def read_url_info(url_file):
@@ -43,6 +44,7 @@ def create_cards(url_file):
 
         card = ItemCard(
             url=key,
+            idx=info.get("idx", 1000), # 越小越靠前
             title=info.get("title"),
             keywords=info.get("keywords"),
             description=info.get("description"),
@@ -51,8 +53,9 @@ def create_cards(url_file):
         cate = info.get("category")
         cards.append(card)
         cates[cate].append(card)
+
     cates = dict(sorted(cates.items(), key=lambda x: categories[x[0]].idx))
-    cates = [(categories[x].name[0], y) for x, y in cates.items()]
+    cates = [(categories[x].name[0], sorted(y, key=lambda z: z.idx)) for x, y in cates.items()]
 
     return cards, cates
 
