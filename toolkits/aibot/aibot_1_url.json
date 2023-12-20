@@ -63,7 +63,7 @@
   "https://cn.bing.com/create": {
     "description": "必应 图像创建器"
   },
-  "https://www.logosc.cn/": { "category": "image" },
+  "https://www.logosc.cn/": { "category": "design" },
   "https://www.upscayl.org": { "category": "image" },
   "https://ribbet.ai": {
     "title": "Ribbet",
@@ -74,7 +74,7 @@
     "description": "人脸修复，人像抠图，动漫增强"
   },
   "https://wanxiang.aliyun.com/": {},
-  "https://zmrj.art/": {},
+  "https://zmrj.art/": {"category": "image"},
   "https://design.meitu.com/aigc/text-to-image": {},
   "https://www.capcut.cn/ai-tool/": {
     "description": "用简单的文案，创造精彩的图片"
@@ -110,7 +110,7 @@
     "description": "人人皆可绘制专业的图片作品"
   },
   "https://www.diffus.graviti.com/?utm_source=tool&amp;utm_medium=referral&amp;utm_campaign=aibot": {},
-  "https://img.logosc.cn/": {},
+  "https://img.logosc.cn/": {"category": "person"},
   "https://www.photosir.com/": {},
   "https://drawdraw.com/?s=aigj": { "delete": true },
   "https://aic.oceanengine.com/": {},
@@ -141,11 +141,11 @@
   "https://huiyingzimu.com/": {},
   "https://www.veed.io/zh-CN/tools/video-background-remover": {},
   "https://bgrem.ai/zh/remove-video-bg/?params=free": { "delete": true },
-  "https://bgrem.ai/zh/erase-and-replace/": {},
-  "https://www.cutout.pro/zh-CN/remove-video-background": {},
+  "https://bgrem.ai/zh/erase-and-replace/": {"category": "removebg"},
+  "https://www.cutout.pro/zh-CN/remove-video-background": {"category": "video"},
   "https://app.avclabs.com/#": {},
   "https://www.rask.ai/": {},
-  "https://www.aippt.cn/": {},
+  "https://www.aippt.cn/": {"category": "PowerPoint"},
   "https://www.x-design.com/ppt/": { "category": "PowerPoint" },
   "https://gamma.app": {
     "description": "A new medium for presenting ideas. Just start writing. Beautiful, engaging content with none of the formatting and design work."
@@ -183,7 +183,7 @@
     "title": "腾讯云智绘"
   },
   "https://ai-bot.cn/sites/1989.html": { "delete": true },
-  "https://ailogo.qq.com/guide/brandname": {},
+  "https://ailogo.qq.com/guide/brandname": {"idx": 1},
   "https://looka.com": {
     "title": "looka",
     "url": "https://looka.com",
