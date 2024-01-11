@@ -197,6 +197,16 @@ register_conv_template(
 )
 
 
+register_conv_template(
+    Category(
+        idx=13,
+        cate="ocr",
+        name=["字符识别", "ocr"],
+        keywords=["ocr", "字符识别"],
+    )
+)
+
+
 # register_conv_template(
 #     Category(
 #         idx=12,

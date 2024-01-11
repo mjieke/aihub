@@ -79,8 +79,8 @@
   "https://www.capcut.cn/ai-tool/": {
     "description": "用简单的文案，创造精彩的图片"
   },
-  "https://miaohua.sensetime.com/zh-CN": {},
-  "https://ai.sohu.com/search?_trans_=000019_aidhlltj": {},
+  "https://miaohua.sensetime.com/zh-CN": {"category": "image"},
+  "https://ai.sohu.com/search?_trans_=000019_aidhlltj": {"category": "image"},
   "https://www.whee.com/": {},
   "https://aiart.chuangkit.com/landingpage": {},
   "https://ke.study.163.com/artWorks/painting": {},
@@ -157,7 +157,7 @@
   "https://powerpresent.ai": {},
   "https://www.beautiful.ai": {},
   "https://chroniclehq.com": { "category": "PowerPoint" },
-  "https://www.presentations.ai": {},
+  "https://www.presentations.ai": {"category": "PowerPoint"},
   "https://www.slidesai.io": {},
   "https://gezhe.caixuan.cc/": {
     "title": "歌者PPT",
